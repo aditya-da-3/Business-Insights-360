@@ -181,12 +181,14 @@ However, it faces challenges with repeat passenger rates and new passenger targe
     
 ## Recommendations
 
-- GoodCabs should focus on tailored marketing and brand awareness by offering free trips after 5 successful referrals to boost both brand visibility and passenger loyalty.
+- Improve supply chain management to avoid stockouts in Accessories and reduce excess inventory in the Desktop segment through demand-driven production.
 
-- GoodCabs should enhance service quality and offer perks to drivers, especially in business hubs like Surat and Vadodara.
+- Focus on underperforming regions like the Philippines, Germany, and Brazil by optimizing pricing and offering targeted promotions to boost Gross Margin %.
 
-- GoodCabs should actively collect customer reviews and implement feedback quickly to improve customer satisfaction.
+- Invest in advanced forecasting tools to enhance accuracy during peak demand months like November and December.
 
-- GoodCabs should run targeted campaigns and partner with established brands in tourist spots to increase reach, offering lower trip costs or profit sharing.
+- Strengthen retail partnerships, which drive 71% of revenue, while expanding direct sales and distributor networks for diversification.
 
-- GoodCabs should implement EVs and urban technology in business hubs to reduce operating costs, where profits are lower due to shorter trip distances and lower fares.
+- Compete aggressively with Dale by introducing innovative features, competitive pricing, and impactful marketing to grow market share.
+
+- Allocate more resources to high-performing segments like Notebooks and Networking while expanding product variants in high-demand categories like laptops and accessories.
