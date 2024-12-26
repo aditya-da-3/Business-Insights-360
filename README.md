@@ -25,7 +25,7 @@ Known for innovation, AtliQ has expanded worldwide, bringing advanced technology
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jQbHM1GvCmE" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Goodcabs%20Youtube%20Thumbnail.png" 
+      src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Yotube%20Thumbnail.png" 
       alt="Presentation Preview" 
       style="width: 70%; max-width: 360px;"
     >
@@ -34,67 +34,43 @@ Known for innovation, AtliQ has expanded worldwide, bringing advanced technology
 
 ## Live Dashboard:
 
-Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc3OGMyZmYtMzRjYy00YmM0LWJjOGMtMmZiYTJmNDUxZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/groups/me/reports/f344c8d6-ebff-4f5f-92f0-1bb70df42e82/4e853dcd071f22c66389?experience=power-bi)
 
-## Tools Used
+## Business Model
 
-- **SQL**  for Ad Hoc Requests & Database Import
-
-- **Power BI** For Data Visualization & Dashboard
-
-- **Canva** For Presentation Preparation
-
-- **OBS Studio** For Audio & Video Recording & Editing
+<div style="text-align: center;">
+  <img 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20AtliQ%20Business%20Model.png" 
+    alt="Data Model Preview" 
+    style="max-width: 100%; height: auto;"
+  >
+</div>
 
 ## Problem Statement
 
-- Goodcabs management wants to evaluate key metrics like:
+- AtliQ's attempt to expand in Latin America led to significant losses, as decisions were made on just excel surveys and intuition.
 
-        1. Trip volume
-        2. Passenger satisfaction
-        3. Repeat passenger rate
-        4. Trip distribution
-        5. Balance between new and repeat passengers
+- Rapid growth has made Excel-based data analysis outdated and inadequate for AtliQ’s needs.
 
-- The Chief of Operations, Bruce Haryali, requires these insights urgently.
+- The absence of a robust data analytics system prevents AtliQ from making clear, accurate, and fast decisions.
 
-- Since Tony, the analytics manager, is busy with another project, this task has been assigned to me.
-
-- I must deliver clear and actionable insights to Bruce within the given timeline.
+- AtliQ faces fierce competition from Dale, which leverages advanced data analytics to gain insights on customer behavior, giving them a major competitive edge.
 
 ## Objectives
 
-- Review the datasets to understand the data thoroughly.
+- To gather and analyze consumer data, set KPIs to track progress, and support AtliQ Hardware in Data  Driven Decision Making.
 
-- Generate SQL reports for business questions from the Ad Hoc Requests provided from Chief of Operations
+- To Create a Interactive Dashboard using  Power BI to fulfill AtliQ’s Business needs.
 
-- Create a simple, easy-to-understand dashboard to showcase analysis.
+- Enable quick insights for businesses across markets by Building A 360° Dashboard which provides Insights About Finance, Sales, Marketing, Supply Chain & Executive View All Together .
 
-- Answer key questions from the provided document using tools : SQL & Power BI.
-
-- Preparing a convincing presentation with insights and recommendations.
-
-## Dataset 
-
-trips_db
-
-    1. dim_city
-    2. dim_date
-    3. fact_passenger_summary (Aggregated Data)
-    4. dim_repeat_trip_distribution (Aggregated Data)
-    5. fact_trips
-
-targets_db
-
-    1. city_target_passenger_rating
-    2. monthly_target_new_passengers
-    3. monthly_target_trips
+- To use advanced analytics and supply chain metrics to understand customer behavior and improve product and marketing strategies, helping AtliQ compete with Dale & increase its market share.
 
 ## Data Model
 
 <div style="text-align: center;">
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/data%20model/Data%20Model%20Preview.png" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Data%20Model/Data%20Model%20BI%20360.png" 
     alt="Data Model Preview" 
     style="max-width: 100%; height: auto;"
   >
@@ -104,44 +80,80 @@ targets_db
 
   <h3>Home Page</h3>
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/1)%20Home%20Page.png" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Home%20Page.png" 
     alt="Home Page" 
     style="max-width: 100%; height: auto;"
   >
   <hr>
 
-  <h3>City Performance Page</h3>
-  <p>This page highlights key metrics, showcasing top and bottom-performing cities, average fare vs. distance comparisons, and city-wise revenue with max/min trip distances.</p>
+  <h3>Info Page</h3>
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/2)%20City%20Performance%20Page.png" 
-    alt="City Performance Page" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Info%20Page.png" 
+    alt="Info Page" 
     style="max-width: 100%; height: auto;"
   >
   <hr>
 
-  <h3>Demand Patterns Page</h3>
-  <p>This page provides passenger insights, including repeat trip counts, weekend vs. weekday trends, peak and low demand by month, and total trips categorized by passenger type.</p>
+  <h3>Support Page</h3>
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/3)%20Demand%20Patterns%20Page.png" 
-    alt="Demand Patterns Page" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Supprt%20Page.png" 
+    alt="Support Page" 
     style="max-width: 100%; height: auto;"
   >
   <hr>
 
-  <h3>Behavorial Insights Page</h3>
-  <p>This page covers average driver and passenger ratings, highlights top and bottom cities by repeat passenger rate, and compares repeat passenger rates across regions.</p>
+  <h3>Finance View</h3>
+  
+  <p>Get  P & L statement for any customer / product / country or aggregation of the above over any time period and More.</p>
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/4)%20Behavorial%20Insights%20Page.png" 
-    alt="Behavorial Insights Page" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Finance%20View.png" 
+    alt="Finance View" 
+    style="max-width: 100%; height: auto;"
+  >
+  <hr>
+
+  <h3>Sales View</h3>
+  
+  <p>Analyze the performance of your customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.</p>
+  <img 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Sales%20View.png" 
+    alt="Sales View" 
+    style="max-width: 100%; height: auto;"
+  >
+  <hr>
+
+  <h3>Marketing View</h3>
+  <p>Analyze the performance of your product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.</p>
+  <img 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Marketing%20View.png" 
+    alt="Marketing View" 
+    style="max-width: 100%; height: auto;"
+  >
+  <hr>
+
+  <h3>Supply Chain View</h3>
+  <p>Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.</p>
+  <img 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Supply%20Chain%20View.png" 
+    alt="Supply Chain View" 
+    style="max-width: 100%; height: auto;"
+  >
+  <hr>
+
+  <h3>Executive View</h3>
+  <p>A top level dashboard for executives consolidating top insights from all dimensions of business.</p>
+  <img 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Executive%20View.png" 
+    alt="Executive View" 
     style="max-width: 100%; height: auto;"
   >
 </div>
 
-<h3>Trends Vs Targets Page</h3>
-  <p>This page presents key metrics on target achievement and revenue growth rates across months and cities, along with the status of target achievement across cities.</p>
+<h3>Feature Requests View</h3>
+  <p>A dashboard for feature Request Showing Top 5 Markets & Top / Bottom 5 Products Per Gross Margin % & Monthly / Yearly Trend of Post Deduction % </p>
   <img 
-    src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/5)%20Trends%20vs%20Targets%20Page.png" 
-    alt="Trends Vs Targets Page" 
+    src="https://github.com/aditya-da-3/Business-Insights-360/blob/main/Images/BI%20360%20Feature%20Request%20View.png" 
+    alt="Feature Requests View" 
     style="max-width: 100%; height: auto;"
   >
 </div>
