@@ -1,30 +1,23 @@
 # Business Insights 360
 
-### Provide Insights to Chief of Operations in Transportation Domain
+### Power BI Project
 
 ## Overview:
 
-Goodcabs, founded in 2022, is a rising cab service company like Ula, Ober etc making waves in the Indian market by focusing on tier-2 cities.
+AtliQ Hardwares is a leading Indian computer hardware brand with a global reach, offering high-quality products like PCs, keyboards, mouse and printers. 
 
-It is Dedicated to empowering local drivers and providing exceptional service.
-Goodcabs operates in ten cities across India.
-
-With a mission to foster sustainability and customer satisfaction, the company has set
- ambitious goals for 2024 to accelerate growth and elevate passenger experiences.
+Known for innovation, AtliQ has expanded worldwide, bringing advanced technology into homes and workplaces everywhere.
 
 ## Table of Contents:
 
 - [Project Presentation (Video)](#project-presentation-video)
 - [Live Dashboard](#live-dashboard)
-- [Tools Used](#tools-used)
+- [Business Model](#business-model)
 - [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
-- [Dataset](#dataset)
 - [Data Model](#data-model)
 - [Dashboard Preview](#dashboard-preview)
-- [Primary Analysis](#primary-analysis)
-- [Secondary Analysis](#secondary-analysis)
-- [Insights](#insights)
+- [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 
 ## Project Presentation (Video)
