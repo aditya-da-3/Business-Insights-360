@@ -160,24 +160,57 @@ Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.c
   
 ## Key Insights
 
-#### 1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
+#### 1) Finance View
 
-#### 2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
+- Net sales experienced a significant YOY increase, with peak demand consistently observed in November and December, driven by global festive seasons.
 
-#### 3) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
+- March 2020 sales fell below the previous year, likely impacted by COVID-19, while in 2022, net sales nearly achieved the target, missing by a narrow margin of just 1.5%.
 
-#### 4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
-However, it faces challenges with repeat passenger rates and new passenger targets **(-15%)**, indicating:
-   - Low passenger loyalty
-   - Insufficient tailored marketing
-   - This pattern is common across Tourism-focused cities
-   - Jaipur's strong performance is largely driven by its tourist attraction.
+- While net sales increased YOY, a decline in net profit highlights AtliQ's growth phase as it focuses on establishing its global market identity.
 
-#### 5) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
-  However, it struggles with:
-  - Achieving trip and ratings targets
-  - Lowest passenger and driver ratings
-  - This trend is common in business-focused cities and highlights service quality issues.
+- The gross margin, which dropped in 2020 due to COVID-19, showed significant recovery by 2022, indicating that AtliQ is expanding its market share while steadily improving profitability.
+
+#### 2) Sales View
+
+- A consistent 60:40 ratio between Total COGS and Gross Margin was observed across all fiscal years for AtliQ Hardware.
+
+- Amazon, AtliQ Exclusive, and AtliQ e-Store led in net sales across all regions and fiscal years; however, in 2022, Amazon and AtliQ e-Store fell short of the Gross Margin % target.
+
+- A GM % target tolerance of 10% highlights regions and customers where AtliQ Hardware missed the target by a significant margin.
+
+- In 2022, key focus markets include the Philippines, Germany, Brazil, Bangladesh, and Portugal, as they fell way below the 10% GM % tolerance threshold.
+
+#### 3) Marketing View
+
+- The Notebook segment consistently led in Net Sales ($) across all fiscal years.
+
+- The Desktop segment, absent in 2019, showcased massive growth over the years in Net Profit % and Gross Margin %.
+
+- The Networking segment consistently topped Net Profit % across all fiscal years.
+
+- Keyboards and Laptops emerged as the most sold categories over the years.
+
+#### 4) Supply Chain View
+
+- The Accessories segment faced consistent stock shortages over the years, highlighting high demand and frequent shortages of keyboards, while the Desktop segment experienced excess inventory, likely due to higher laptop production.
+
+- Over the 4-year period, November and December recorded the highest net errors, whether due to excess inventory or stockouts, reflecting fluctuating demand during these months.
+
+- Forecast accuracy dropped from 86% to 72% in mid-2020 due to COVID-19, with a steady recovery observed by 2022.
+
+#### 5) Executive View
+
+- In 2022, the PC division contributed the highest revenue at 61%, followed by Peripherals & Accessories at 36%, and Networking & Storage at 2.5%.
+
+- Retailers accounted for 71% of revenue, followed by 18% from direct sales and 10% from distributors in 2022.
+
+- Amazon emerged as the top customer, while laptop variants from the Desktop segment were the top products across all years.
+
+- In terms of revenue contribution, nearly 75% came from three subzones: North America (27%), India (25%), and Rest of Asia (21%).
+
+- Dale leads the PC market with a 22% share, while AtliQ, absent until 2020, achieved a notable 5.9% market share by 2022, reflecting its growing global presence.
+
+- Yearly trends show substantial YOY growth in net sales, consistent GM %, and steady market share and net profit until 2020. From 2021, market share slightly increased, while net profit saw a slight decline.
     
 ## Recommendations
 
