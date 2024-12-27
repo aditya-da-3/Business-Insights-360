@@ -162,53 +162,53 @@ Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.c
 
 #### 1) Finance View
 
-- Net sales experienced a significant YOY increase, with peak demand consistently observed in November and December, driven by global festive seasons.
+- Net sales experienced a significant YOY increase, with peak demand consistently observed in **November and December**, driven by global festive seasons.
 
-- March 2020 sales fell below the previous year, likely impacted by COVID-19, while in 2022, net sales nearly achieved the target, missing by a narrow margin of just 1.5%.
+- March 2020 sales fell below the previous year, likely impacted by **COVID-1**9, while in 2022, net sales nearly **achieved** the target, missing by a narrow margin of just **1.5%**.
 
-- While net sales increased YOY, a decline in net profit highlights AtliQ's growth phase as it focuses on establishing its global market identity.
+- While net sales increased YOY, a **decline** in net profit highlights AtliQ's growth phase as it focuses on establishing its global market identity.
 
-- The gross margin, which dropped in 2020 due to COVID-19, showed significant recovery by 2022, indicating that AtliQ is expanding its market share while steadily improving profitability.
+- The gross margin, which dropped in 2020 due to COVID-19, showed significant **recovery** by 2022, indicating that AtliQ is expanding its market share while steadily **improving profitability**.
 
 #### 2) Sales View
 
-- A consistent 60:40 ratio between Total COGS and Gross Margin was observed across all fiscal years for AtliQ Hardware.
+- A consistent **60:40 ratio** between **Total COGS** and **Gross Margin** was observed across all fiscal years for AtliQ Hardware.
 
 - Amazon, AtliQ Exclusive, and AtliQ e-Store led in net sales across all regions and fiscal years; however, in 2022, Amazon and AtliQ e-Store fell short of the Gross Margin % target.
 
 - A GM % target tolerance of 10% highlights regions and customers where AtliQ Hardware missed the target by a significant margin.
 
-- In 2022, key focus markets include the Philippines, Germany, Brazil, Bangladesh, and Portugal, as they fell way below the 10% GM % tolerance threshold.
+- In 2022, key focus markets include the Philippines, Germany, Brazil, Bangladesh, and Portugal, as they fell way below the **10% GM %** tolerance threshold.
 
 #### 3) Marketing View
 
-- The Notebook segment consistently led in Net Sales ($) across all fiscal years.
+- **The Notebook segment** consistently led in Net Sales ($) across all fiscal years.
 
-- The Desktop segment, absent in 2019, showcased massive growth over the years in Net Profit % and Gross Margin %.
+- **The Desktop segment**, absent in 2019, showcased massive growth over the years in Net Profit % and Gross Margin %.
 
-- The Networking segment consistently topped Net Profit % across all fiscal years.
+- **The Networking segment** consistently topped Net Profit % across all fiscal years.
 
-- Keyboards and Laptops emerged as the most sold categories over the years.
+- **Keyboards and Laptops** emerged as the most sold categories over the years.
 
 #### 4) Supply Chain View
 
-- The Accessories segment faced consistent stock shortages over the years, highlighting high demand and frequent shortages of keyboards, while the Desktop segment experienced excess inventory, likely due to higher laptop production.
+- **The Accessories segment** faced consistent stock shortages over the years, highlighting high demand and frequent shortages of keyboards, while **the Desktop segment** experienced excess inventory, likely due to higher laptop production.
 
-- Over the 4-year period, November and December recorded the highest net errors, whether due to excess inventory or stockouts, reflecting fluctuating demand during these months.
+- Over the 4-year period, **November and December** recorded the highest net errors, whether due to excess inventory or stockouts, reflecting fluctuating demand during these months.
 
-- Forecast accuracy dropped from 86% to 72% in mid-2020 due to COVID-19, with a steady recovery observed by 2022.
+- Forecast accuracy dropped from **86% to 72%** in mid-2020 due to COVID-19, with a steady recovery observed by 2022.
 
 #### 5) Executive View
 
-- In 2022, the PC division contributed the highest revenue at 61%, followed by Peripherals & Accessories at 36%, and Networking & Storage at 2.5%.
+- In 2022, the **PC division** contributed the highest revenue at **61%**, followed by **Peripherals & Accessories** at **36%**, and **Networking & Storage** at **2.5%**.
 
-- Retailers accounted for 71% of revenue, followed by 18% from direct sales and 10% from distributors in 2022.
+- Retailers accounted for **71%** of revenue, followed by **18%** from direct sales and **10%** from distributors in 2022.
 
 - Amazon emerged as the top customer, while laptop variants from the Desktop segment were the top products across all years.
 
-- In terms of revenue contribution, nearly 75% came from three subzones: North America (27%), India (25%), and Rest of Asia (21%).
+- In terms of revenue contribution, nearly **75%** came from three subzones: North America **(27%)**, India **(25%)**, and Rest of Asia **(21%)**.
 
-- Dale leads the PC market with a 22% share, while AtliQ, absent until 2020, achieved a notable 5.9% market share by 2022, reflecting its growing global presence.
+- Dale leads the PC market with a **22%** share, while AtliQ, absent until 2020, achieved a notable **5.9%** market share by 2022, reflecting its growing global presence.
 
 - Yearly trends show substantial YOY growth in net sales, consistent GM %, and steady market share and net profit until 2020. From 2021, market share slightly increased, while net profit saw a slight decline.
     
